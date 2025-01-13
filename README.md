@@ -30,7 +30,23 @@
 - Codon usage optimizer for heterologous gene expression  
 - User-friendly random nucleotide sequence generator  
 - Comprehensive user manual and quick-start tutorial  
+---
 
+## 📂 **Binary Files in `bin/`**
+
+The repository includes the following zip file contains
+
+- **`inca120a.zip`**: INCA version 1.20a.
+- **`INCA2.1_01.zip`**: INCA version 2.1 for Windows and
+- **`INCA2_linux.tar.gz`**: INCA version 2.1 for Linux systems.  
+- **`INCA2_windows.zip`**: INCA version 2.1 packaged for Windows.  
+
+The zip files include Windows and/or Linux executables and the user manual in PDF format. INCA 2.0 also includes supporting DLL and SO libraries, INCAblocks, and three bacterial genomes.
+
+### Installation
+1. Download the appropriate file for your platform from the `bin/` folder.
+2. Extract the archive to your desired location.
+3. Follow the instructions in the included tutorials and manuals.
 ---
 
 ### 📖 **Citation**  
